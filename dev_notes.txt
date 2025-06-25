@@ -1,18 +1,1 @@
 Composer - https://getcomposer.org/
-
----Admin Login Details---
-
-Email   : admin@mail.com
-Password: codeastro.com
-
-
----Agent Login Details---
-
-Email   : agent@mail.com
-Password: codeastro.com
-
-
----User Login Details---
-
-Email   : user@mail.com
-Password: codeastro.com
